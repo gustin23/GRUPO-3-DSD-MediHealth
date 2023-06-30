@@ -1,3 +1,4 @@
+import { logoMedico, result4k } from "../assets";
 import styles from "../style"; 
 
 
@@ -26,7 +27,7 @@ const Hero = () => {
       </div>
       
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src="/result4k.png" /* className="w-[100%] h-[100%] relative z-[5]" */ />
+        <img src={result4k} /* className="w-[100%] h-[100%] relative z-[5]" */ />
       </div>
 
     </section>

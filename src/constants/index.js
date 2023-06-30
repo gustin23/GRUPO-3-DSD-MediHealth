@@ -1,4 +1,4 @@
-import { persona1, persona2, persona3, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star} from "../assets";
+import { persona1, persona2, persona3, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, fotoAgus, fotoFede, fotoPaz} from "../assets";
 export const navLinks = [
   {
     id: "features",
@@ -45,7 +45,7 @@ export const feedback = [
       "El acceso a la salud por medio de dispositivos móviles demuestra las directrices del mundo donde vivimos, por eso esta plataforma entiende muy bien como mediar con el público para hacer de esta una experiencia amena.",
     name: "Agustín Maseda",
     title: "Dr. en Neumología en el Hospital Italiano",
-    img: "../public/fotoAgustin.jpg"
+    img: fotoAgus
   },
   {
     id: "feedback-2",
@@ -53,7 +53,7 @@ export const feedback = [
       "MediHealth me ayuda a organizarme con tiempo a la hora de pedir un turno para mis hijos, ya que me provee de información últil sobre las particularidades de cada hospital.",
     name: "Maria Paz Fernandez",
     title: "Madre soltera",
-    img: "../public/fotoPaz.jpg"
+    img: fotoPaz
   },
   {
     id: "feedback-3",
@@ -61,7 +61,7 @@ export const feedback = [
       "Proyectos como este, liderados por jóvenes, deja en claro que el futuro está en buenas manos. Gracias a las nuevas tecnologías de la comunicación, la salud pretende ser mucho más que una necesidad sino un derecho al que todos deberíamos acceder facilmente.",
     name: "Federico Leonel Bouzon",
     title: "Médico del Hospital de Niños Dr. Pedro de Elizalde",
-    img: "../public/fotoFede.jpg",
+    img: fotoFede
   },
 ];
 

@@ -29,6 +29,13 @@ import bxshield1 from "./bxshield1.svg";
 import bxstar1 from "./bxstar1.svg";
 import persona2 from "./persona2.png"
 import persona3 from "./persona3.png"
+import fotoAgus from "./fotoAgustin.jpg"
+import fotoFede from "./fotoFede.jpg"
+import fotoPaz from "./fotoPaz.jpg"
+import logoMedico from "./logo-MediHealth.svg"
+import MediHealth from "./MediHealth.png"
+import result4k from "./result4k.png"
+
 
 export {
   airbnb,
@@ -62,4 +69,10 @@ export {
   bxstar1,
   persona2,
   persona3,
+  fotoAgus,
+  fotoFede,
+  fotoPaz,
+  logoMedico,
+  MediHealth,
+  result4k,
 };
